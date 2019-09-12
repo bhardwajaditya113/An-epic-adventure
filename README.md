@@ -1,4 +1,4 @@
-# HTML5-Simple-Game-Programming
+# HTML5-Simple-Game-Programming-Preparation
 
 # HTML Files
 begin.html - Simple adventure game
